@@ -3,7 +3,6 @@
 
 # Esta es la superclase
 class Usuarios:
-    
     def __init__(self, nombre, apellidos):
         self.nombre = nombre
         self.apellidos = apellidos
